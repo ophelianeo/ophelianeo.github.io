@@ -1,8 +1,15 @@
 .textcentre{
 	text-align:center;
 }
-body {background-color:#5FAE57;}
+body {background-color:#92D18B;}
 
 .card{
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
+
+.red{background-color: #D93A21;
+}
+
+.red{text-align: center;}
+
